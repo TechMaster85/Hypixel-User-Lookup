@@ -1,11 +1,13 @@
 # Hypixel User Lookup
 Ever logged onto Hypixel and realized you were permenantly banned for no reason? Your Minecraft account may have been compromised. Use this program to check for unusual account activity.
 # Installation
-Just go to the Releases tab and download the .exe file. Mac and Linux builds will come (hopefully) soon.
+Just go to the Releases tab and download the .exe file. Mac and Linux builds will come (hopefully) soon. 
 # Goals
  - Make an easy-to-use program without the intimidation of a command line
  - Make everything here more organized
 # QnA
+- Windows Smartscreen questions whether this file is safe.
+  - Trust me, it is safe. Upload this to virustotal.com and the only AV that detects it is SecureAge APEX (which I can almost guarantee you've never heard of).
 - How the heck am I supposed to get an API key if I'm banned?
   - Someone else can log onto the server, generate the key, and send it to you.
 - Why do we need our own keys?
