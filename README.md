@@ -1,10 +1,10 @@
-# Hypixel-User-Lookup
+# Hypixelm User Lookup
 Ever logged onto Hypixel and realized you were permenantly banned for no reason? Your Minecraft account may have been compromised. Use this program to check for unusual account activity.
 # Installation
 Just go to the Releases tab and download the .exe file. Mac and Linux builds will come (hopefully) soon.
 # Goals
- - Make an easy-to-use program without the intimidation of a command line for both 
- - Continually work on this.
+ - Make an easy-to-use program without the intimidation of a command line
+ - Make everything here more organized
 # QnA
 - How the heck am I supposed to get an API key if I'm banned?
   - Someone else can log onto the server, generate the key, and send it to you.
