@@ -1,4 +1,4 @@
-# Hypixelm User Lookup
+# Hypixel User Lookup
 Ever logged onto Hypixel and realized you were permenantly banned for no reason? Your Minecraft account may have been compromised. Use this program to check for unusual account activity.
 # Installation
 Just go to the Releases tab and download the .exe file. Mac and Linux builds will come (hopefully) soon.
