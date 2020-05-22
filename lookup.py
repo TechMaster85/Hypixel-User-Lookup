@@ -1,3 +1,8 @@
+# Hypixel User Lookup
+# (C) 2020 William Starrs
+# This program is neither affiliated nor endorsed by Hypixel or any of its entities.
+# Unless a Hypixel dev makes a fork of this. That would be pretty neat.
+
 import datetime as dt
 import pyautogui as pag
 import requests

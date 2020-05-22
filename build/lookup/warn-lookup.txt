@@ -78,7 +78,7 @@ missing module named Quartz - imported by pygetwindow._pygetwindow_macos (top-le
 missing module named Tkinter - imported by pymsgbox (conditional, optional), mouseinfo (conditional, optional)
 missing module named 'rubicon.objc' - imported by mouseinfo (conditional)
 missing module named rubicon - imported by mouseinfo (conditional)
-missing module named olefile - imported by PIL.FpxImagePlugin (top-level), PIL.MicImagePlugin (top-level)
+missing module named olefile - imported by PIL.MicImagePlugin (top-level), PIL.FpxImagePlugin (top-level)
 missing module named 'PySide2.QtCore' - imported by PIL.ImageQt (conditional, optional)
 missing module named PySide2 - imported by PIL.ImageQt (conditional, optional)
 missing module named 'PyQt5.QtCore' - imported by PIL.ImageQt (conditional, optional)
